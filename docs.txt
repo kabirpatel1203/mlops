@@ -21,3 +21,8 @@ if dictionary, you have to use a['x'] to get values. In order to get values usin
 ensure annotation is used to make sure that if the parameter should be integer then it makes sure that parameter would be integer.
 
 
+STEP 1) Setup and clone the github repo (include gitigonre and licence)
+STEP 2) Write logic in the template.py and run it. (it will create the structure of the project)
+STEP 3) create a virtual env in bash and then activate it.
+STEP 4) write the setup.py file
+STEP 5) write the requirements.txt file and install the requirements using pip install -r requirements.txt
