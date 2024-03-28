@@ -1,8 +1,0 @@
-#!C:\Users\kabir\OneDrive\Desktop\Projects\end_to_end_mlops\chest\Scripts\python.exe
-# -*- coding: UTF-8 -*-
-from __future__ import print_function, division, absolute_import
-
-from numba.misc.numba_entry import main
-
-if __name__ == "__main__":
-    main()
