@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\kabir\OneDrive\Desktop\Projects\end_to_end_mlops\chest"
+VIRTUAL_ENV="C:\Users\kabir\OneDrive\Desktop\Projects\mlops\chest"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

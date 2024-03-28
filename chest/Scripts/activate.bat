@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\kabir\OneDrive\Desktop\Projects\end_to_end_mlops\chest
+set VIRTUAL_ENV=C:\Users\kabir\OneDrive\Desktop\Projects\mlops\chest
 
 if not defined PROMPT set PROMPT=$P$G
 
