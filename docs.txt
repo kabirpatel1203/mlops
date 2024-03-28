@@ -26,3 +26,4 @@ STEP 2) Write logic in the template.py and run it. (it will create the structure
 STEP 3) create a virtual env in bash and then activate it.
 STEP 4) write the setup.py file
 STEP 5) write the requirements.txt file and install the requirements using pip install -r requirements.txt
+STEP 6) write the logging in init and other functionalities (Utils, Logging, AND Exceptions)
